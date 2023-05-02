@@ -12,7 +12,7 @@ Clone `Dockerfile`
 RUN curl [MC_SERVER_CORE_URL] --output minecraft/minecraft_server.jar
 ```
 
-**Edit [MC_SERVER_CORE_URL] to Minecraft server download URL。**
+**Change [MC_SERVER_CORE_URL] to the Minecraft server download URL。**
 
 Build image：
 
