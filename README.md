@@ -1,6 +1,6 @@
 # IBMC-IBMZ
 
-### [English Readme](./README_EN.md) | 简体中文
+### [English](./README_EN.md) | 简体中文
 
 一个在s390x架构的服务器上部署Minecraft Server的解决方案
 
